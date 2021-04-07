@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yaquensis
 - 👀 I’m working towards completing my COMPTIA Linux + exam.
 - 🌱 I’m currently learning Linux.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: yaquensis@yahoo.co.uk
 
 <!---
